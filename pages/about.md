@@ -7,9 +7,6 @@ permalink: /about.html
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
-{% include feature/nav-menu.html sections="About the Collection;About the curator" %}
-
 ## About the Collection
 
 Collection of resources both available virtually and from personal data gathering concerning Gullah Geecheee. 
